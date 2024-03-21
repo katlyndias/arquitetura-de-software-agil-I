@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30f7ea86-3adb-419c-9f5b-b9473f85e1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploOriginal/ImpostoPorEstado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategy/EstrategiaImposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategy/ImpostoMG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategy/ImpostoPorEstado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategy/ImpostoRJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategy/ImpostoSP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategyCorrigido/CalculadoraBrasil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategyCorrigido/ImpostoMG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategyCorrigido/ImpostoPorEstado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategyCorrigido/ImpostoRJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategyCorrigido/ImpostoSP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/ada/exemplo/exemploStrategyCorrigido/StrategyImposto.java" afterDir="false" />
+    <list default="true" id="30f7ea86-3adb-419c-9f5b-b9473f85e1be" name="Changes" comment="First Commit - 20/03/2024 class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dyNvUjuIfBtMEVoKyhR3bXNKZn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -65,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.arquitetura-de-software-agil-I [:CalculadoraBrasil.main()].executor": "Run",
     "Gradle.arquitetura-de-software-agil-I [:ImpostoPorEstado.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -112,10 +89,35 @@
       <option name="presentableId" value="Default" />
       <updated>1710976592847</updated>
       <workItem from="1710976594030" duration="5160000" />
+      <workItem from="1710983279169" duration="597000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit - 20/03/2024 class">
+      <option name="closed" value="true" />
+      <created>1710983608726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710983608726</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit - 20/03/2024 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit - 20/03/2024 class" />
   </component>
 </project>
